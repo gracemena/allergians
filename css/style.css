@@ -1,0 +1,405 @@
+@import url("https://use.typekit.net/wtq1ljy.css");
+ @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+  @import url("https://use.typekit.net/wtq1ljy.css");
+
+:root{
+	--color-naranja: #D64E2E;
+	--color-verde: #06442F;
+	--color-morado: #453E64;
+	--color-rosado: #AA394D;
+	--color-cafe: #9B4814;
+	--color-beige: #F7EDE1;
+}
+header{
+	background-color: var(--color-beige) !important;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: "mencken-std", sans-serif;
+	text-transform: uppercase;
+}
+
+#hero-alergias{
+	background-color: var(--color-beige);
+}
+.nav-cafe{
+	background-color: var(--color-cafe);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.nav-naranja{
+	background-color: var(--color-naranja);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.nav-verde{
+	background-color: var(--color-verde);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.nav-morado{
+	background-color: var(--color-morado);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.nav-rosado{
+	background-color: var(--color-rosado);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.footer-naranja{
+	background-color: var(--color-naranja);
+}
+
+.footer-morado{
+	background-color: var(--color-morado);
+}
+
+.footer-verde{
+	background-color: var(--color-verde);
+}
+
+.footer-cafe{
+	background-color: var(--color-cafe);
+}
+
+.footer-rosado{
+	background-color: var(--color-rosado);
+}
+
+.titulos-contact{
+	font-size: 30px;
+}
+
+.pr-images-recipes{
+	text-align: center;
+	padding: 2%;
+	background-color: var(--color-beige);
+	
+}
+
+
+.fn-images-recipes{
+	text-align: center;
+	background-color: var(--color-beige);
+	padding-bottom: 80px;
+}
+#queremos-conocerte i{
+	font-size: 48px;
+	margin-top: 30px;
+}
+
+#pimientos-rellenos{
+	background-color: var(--color-beige);
+}
+
+.subtitulos-recetas{
+	color: var(--color-morado);
+	text-align: left;
+	margin-top: 50px;
+}
+
+.titulos-recetas{
+	color: var(--color-morado);
+	text-align: center;
+}
+
+#pimientos-rellenos p{
+	text-align: justify;
+}
+h2{
+	font-size: 43px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h3{
+	font-size:22px;
+	text-align: center;
+	margin-top: 20px;
+	text-decoration: none;
+}
+
+#recipes{
+	background-color: var(--color-beige);
+}
+
+#hero-recetas{
+	background-color: var(--color-beige);
+	color: var(--color-morado);
+	text-align: center;
+}
+
+#hero-recetas h1{
+	padding-top: 50px;
+}
+
+h4{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+p{
+	font-family: "haboro-soft", sans-serif;
+}
+
+#hero{
+	background-color: var(--color-beige);
+}
+
+.btn-morado{
+	background-color: var(--color-morado);
+    padding: 8px 30px;
+    border-radius: 20px;
+	text-decoration: none;
+	color: var(--color-beige);
+	border: 0;
+}
+
+.button-menu{
+	background-color: var(--color-morado);
+    padding: 8px 30px;
+    border-radius: 20px;
+	align: center;
+	text-decoration: none;
+	align-items: center;
+	color: var(--color-beige);
+}
+	
+#hero h1{
+	text-align: center;
+	font-size: 45px;
+	margin-top: 110px;
+	color: var(--color-naranja);
+}
+#queremos-conocerte{
+	background-color: var(--color-verde);
+	color: var(--color-beige);
+}
+
+#queremos-conocerte p{
+	margin-top: 50px;
+}
+
+a{
+	text-decoration: none;
+}
+
+#recipes a{
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+}
+
+.btn w-100{
+  background-color: var(--color-verde);
+  border: none;
+  border-radius: 50px;
+  margin-top: 20px;
+  color: #f5f0e1;
+  padding: 10px; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+	width:200px;
+}
+
+#en-contacto{
+	background-color: var(--color-beige);
+	color: var(--color-verde);
+}
+#services{
+	background-image: url("../img/fondo-servicios.png");
+	background-position: center;
+	background-size: cover;
+	background-color:rgba(0,0,0,0.30);
+	background-blend-mode: multiply;
+	color: var(--color-beige);
+}
+
+#menurecetas{
+	margin-top: 30px;
+}
+#hero p{
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	color: var(--color-cafe);
+}
+
+#recetas{
+	background-color: var(--color-beige);
+	color: var(--color-naranja);
+}
+
+#recipes{
+	padding: 7%;
+	color: var(--color-morado);
+}
+
+.btn {
+	background-color: var(--color-naranja);
+	border:0;
+	font-family: "haboro-soft", sans-serif;
+	text-transform: uppercase;
+	color: var(--color-beige);
+	margin-top: 50px;
+	padding: 8px 30px;
+    border-radius: 20px;
+	
+}
+
+.btn-contact{
+	background-color: var(--color-verde);
+	border-radius: 20px;
+	color:var(--color-beige);
+	border: 0;
+}
+.padding-section{
+	padding: 6% 0;
+}
+
+
+#hero-nosotros p{
+	text-align: justify;
+	color: #000;
+}
+
+.titulos-nosotros{
+	color: var(--color-cafe);
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#servicios h3{
+	text-align: left;
+	color: var(--color-cafe);
+	font-size: 18px;
+	margin-top: 30px;
+}
+
+#hero-nosotros{
+	background-color: var(--color-beige);
+}
+#image-nosotros{
+	text-align: center;
+	background-color: var(--color-beige);
+}
+#valores{
+	background-color: var(--color-beige);
+}
+
+#vision{
+	background-color: var(--color-beige);
+}
+#servicios{
+	padding-bottom: 100px;
+	background-color: var(--color-beige);
+}
+
+#mision{
+	text-align: center;
+	background-color: var(--color-beige);
+}
+	
+#hero-alergias h1{
+	text-align: center;
+	font-size: 45px;
+	margin-top: 7px;
+	color: var(--color-rosado);
+	margin-bottom: 30px;
+}
+
+#hero-alergias p{
+	
+	font-size: 18px;
+	color: var(--color-cafe);
+	text-align:justify;
+}
+
+.btn-rosado{
+	background-color: var(--color-rosado);
+    padding: 8px 30px;
+    border-radius: 20px;
+	text-decoration: none;
+	color: var(--color-beige);
+	border: 0;
+	margin-top: 20px;
+}
+
+#alergiasalimentarias h1{
+	text-align: center;
+	margin-top: 0;
+	padding-top: 30px;
+	margin-bottom: 30px;
+
+	
+}
+
+
+
+#alergiasalimentarias{
+	background-color: var(--color-beige);
+	color: var(--color-rosado);
+	text-align: center;
+	padding: 50px;	
+	padding-top: 0;
+	padding-bottom:90px;
+}
+
+#carrusel p{
+	text-align: justify;
+}
+
+#carrusel h2{
+	font-size: 30px;
+}
+
+#carrusel{
+	background-color: var(--color-beige);
+	margin-top: 20px;
+}
+
+.custom-carousel {
+  width: 90%; 
+  height: 600px; 
+  margin: 0 auto;
+}
+
+.custom-carousel .carousel-inner img {
+  height: 200%; 
+  object-fit: cover; 
+}
+
+
+.fondo-contact{
+	background-image: url("../img/fondo-contact.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: var(--color-beige);
+	background-size:900px;
+	padding: 18% 0;
+	}
+#hero-contacto h1{
+	text-align: center;
+	color: var(--color-beige);
+	font-size: 50px;
+}
+	
+footer{
+	padding: 1.5% 0;
+	color: var(--color-beige);
+}
+
+footer i{
+	color: var(--color-beige);
+	font-size: 22px;
+	text-align: center;
+}
